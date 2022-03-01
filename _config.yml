@@ -97,9 +97,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-dinky
+theme: landfarz
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://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@github.com/tianyasiqing/tianyasiqing.github.io.git
+  branch: main
+  token: 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
