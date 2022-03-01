@@ -103,6 +103,6 @@ theme: ayer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/tianyasiqing/tianyasiqing.github.io.git
+  repo: https://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@github.com/tianyasiqing/tianyasiqing.github.io.git
   branch: main
-  token: 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
+  token: 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
