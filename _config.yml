@@ -108,6 +108,6 @@ theme_config: _config.ayer.yml
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/tianyasiqing/tianyasiqing.github.io.git
+  repo: https://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@github.com/tianyasiqing/tianyasiqing.github.io.git
   branch: main
-  token: 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
+  token: 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
